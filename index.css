@@ -1,0 +1,51 @@
+body {
+
+    background-image: url("counterbackground.jpg");
+    background-size: cover;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, 'Ubuntu', Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+   max-width: 285px;
+    height: 600px;
+    margin: auto;
+      display: flex;
+      flex-direction: column;
+    width: 300px;
+    align-items: center;
+   justify-content: center;
+   color: white;
+   text-shadow: 2px 2px 2px black;
+}
+
+#widthHtml {
+    max-width: 285px;
+}
+h1 {
+   margin: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin: 10px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 150px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    border-radius: 55px;
+}
+
+#increment-btn {
+    background: #ff2070;
+}
+
+#save-btn {
+    background: #440BD4;
+}
+
