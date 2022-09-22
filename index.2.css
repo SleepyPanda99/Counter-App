@@ -1,12 +1,6 @@
 body {
 
     background-image: url("counterbackground.jpg") style="max-width: 100%";
-   
-    width: 100vw;
-    height: 100vh;
-    -webkit-background-style: cover;
-    -moz-background-style: cover;
-    -o-background-size: cover;
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
