@@ -1,6 +1,7 @@
 body {
 
-    background-image: url("counterbackground.jpg");
+    background-image: url("counterbackground.jpg") style="max-width: 100%";
+   
     width: 100vw;
     height: 100vh;
     -webkit-background-style: cover;
